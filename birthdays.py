@@ -1,3 +1,8 @@
+'''
+    the goal of the module is to provide 
+    the birth date of people given their name
+'''
+
 birthdays = {
     'Albert Einstein': '03/14/1879',
     'Benjamin Franklin': '01/17/1706',
